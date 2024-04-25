@@ -385,7 +385,7 @@ function page7Animation(){
     duration:3 ,
     scrollTrigger: {
         trigger: "footer",
-        scroller: "body",
+        scroller: "#main",
         // markers:true,
         start: "top 80%",
         end: "top 46%%",
